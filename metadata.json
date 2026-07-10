@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare AI Agent Portal",
+  "description": "An interactive clinical virtual-office portal with four specialized healthcare AI agents analyzing patient feedback, experience metrics, compliance risks, and organizational opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
